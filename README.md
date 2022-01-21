@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ilhamdaffa21
-- 👀 I’m interested in game programming
-- 🌱 I’m currently learning game design and programming
-- 💞️ I’m looking to collaborate on Playstation
+- 👀 I’m interested in game programming and front-end developing
 - 📫 How to reach me imdaffa2001@gmail.com
 
 <!---
